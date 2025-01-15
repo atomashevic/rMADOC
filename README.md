@@ -1,6 +1,6 @@
-# madocR
+# rMADOC
 
-R package to easily download and combine MADOC dataset files from various platforms (Reddit, Voat, Bluesky, and Koo).
+R package to easily to download and combine parts of MADOC dataset from Zenodo. The MADOC dataset contains social media posts from multiple platforms (Reddit, Voat, Bluesky, and Koo), making it easy to study cross-platform content and community dynamics.
 
 ## Installation
 
