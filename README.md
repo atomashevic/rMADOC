@@ -106,6 +106,53 @@ As you can see, Reddit files are significantly larger than their Voat counterpar
 - curl
 - utils
 
+
+## Citation
+
+If you use this package or the MADOC dataset in your research, please cite:
+
+Mitrovic Dankulov, M., Tomašević, A., Maletic, S., Andjelkovic, M., Vranic, A., Cvetkovic, D., Stupovski, B., Vudragovic, D., Major, S., & Bogojević, A. (2025). MADOC: Multi-Platform Aggregated Dataset of Online Communities (1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.14637314
+
+Or BibTeX:
+
+```
+@MISC{mitrovicDankulov2025madoc,
+  title     = "MADOC: Multi-Platform Aggregated Dataset of Online Communities",
+  author    = "Mitrovic Dankulov, Marija and Tomašević, Aleksandar and Maletic,
+               Slobodan and Andjelkovic, Miroslav and Vranic, Ana and Cvetkovic,
+               Darja and Stupovski, Boris and Vudragovic, Dusan and Major, Sara
+               and Bogojević, Aleksandar",
+  publisher = "Zenodo",
+  abstract  = "The Multi-platform Aggregated Dataset of Online Communities
+               (MADOC) is a comprehensive dataset that facilitates computational
+               social science research by providing a unified, standardized
+               dataset for cross-platform analysis of online social dynamics.
+               MADOC aggregates and standardizes data from four distinct
+               platforms: Bluesky, Koo, Reddit, and Voat, spanning from 2012 to
+               2024. The dataset includes 18.9 million posts, 236 million
+               comments, and data from 23.1 million unique users across all
+               platforms, with a particular focus on understanding community
+               dynamics, user migration patterns, and the evolution of toxic
+               behavior across platforms. By providing standardized data
+               structures and FAIR-compliant access through Zenodo, MADOC
+               enables researchers to conduct comparative analyses of user
+               behavior, interaction networks, and content sentiment across
+               diverse social media environments. The dataset's unique value
+               lies in its cross-platform scope, standardized structure, and
+               rich metadata, making it particularly suitable for studying
+               societal phenomena such as community formation, toxic behavior
+               propagation, and user migration patterns in response to platform
+               moderation policies.",
+  year      =  2025,
+  url       = "https://zenodo.org/records/14637314",
+  keywords  = "Social Media; Online Social Networking; Social Network Analysis",
+  doi       = "10.5281/ZENODO.14637314"
+}
+
+```
+
+
+
 ## License
 
 MIT
