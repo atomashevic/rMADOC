@@ -8,7 +8,7 @@ You can install the package directly from GitHub:
 
 ```r
 # install.packages("devtools")
-devtools::install_github("your-username/madocR")
+devtools::install_github("atomashevic/rMADOC")
 ```
 
 ## Usage
@@ -18,7 +18,7 @@ devtools::install_github("your-username/madocR")
 To see what data is available in the MADOC dataset:
 
 ```r
-library(madocR)
+library(rMADOC)
 list_available_data()
 ```
 
