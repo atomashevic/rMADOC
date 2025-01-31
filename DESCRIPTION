@@ -4,15 +4,19 @@ Version: 0.1.0
 Authors@R: 
     person("Aleksandar", "Tomašević", email = "atomashevic@gmail.com", role = c("aut", "cre"),
 	           comment = c(ORCID = "0000-0003-4863-6051"))
-Description: Download and combine parts of the MADOC dataset. This package provides
-    functions to download data from different platforms (Reddit, Voat, Bluesky, Koo)
-    and communities.
+Description: Download and combine parts of the MADOC (Multi-platform Aggregated Dataset of Online Communities) 
+    dataset from Zenodo. This package provides functions to download and analyze data from different 
+    platforms (Reddit, Voat, Bluesky, Koo) and communities, making it easy to study cross-platform 
+    content and community dynamics. Features include progress tracking, automatic file size verification,
+    and support for both individual platform downloads and community pairs.
 License: MIT + file LICENSE
+URL: https://github.com/atomashevic/rMADOC
+BugReports: https://github.com/atomashevic/rMADOC/issues
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
 Imports: 
-    arrow,
-    dplyr,
-    curl,
+    arrow (>= 14.0.0),
+    dplyr (>= 1.1.0),
+    curl (>= 5.0.0),
     utils 
