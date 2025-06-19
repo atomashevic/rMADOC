@@ -2,35 +2,35 @@
 #' @keywords internal
 
 FILE_URLS <- list(
-  bluesky = "https://zenodo.org/records/14637314/files/bluesky_madoc.parquet",
-  koo = "https://zenodo.org/records/14637314/files/koo_madoc.parquet",
+  bluesky = "https://zenodo.org/records/15690964/files/bluesky_madoc.parquet",
+  koo = "https://zenodo.org/records/15690964/files/koo_madoc.parquet",
   reddit = list(
-    CringeAnarchy = "https://zenodo.org/records/14637314/files/reddit_CringeAnarchy_madoc.parquet",
-    fatpeoplehate = "https://zenodo.org/records/14637314/files/reddit_fatpeoplehate_madoc.parquet",
-    funny = "https://zenodo.org/records/14637314/files/reddit_funny_madoc.parquet",
-    gaming = "https://zenodo.org/records/14637314/files/reddit_gaming_madoc.parquet",
-    gifs = "https://zenodo.org/records/14637314/files/reddit_gifs_madoc.parquet",
-    greatawakening = "https://zenodo.org/records/14637314/files/reddit_greatawakening_madoc.parquet",
-    KotakuInAction = "https://zenodo.org/records/14637314/files/reddit_KotakuInAction_madoc.parquet",
-    MensRights = "https://zenodo.org/records/14637314/files/reddit_MensRights_madoc.parquet",
-    milliondollarextreme = "https://zenodo.org/records/14637314/files/reddit_milliondollarextreme_madoc.parquet",
-    pics = "https://zenodo.org/records/14637314/files/reddit_pics_madoc.parquet",
-    technology = "https://zenodo.org/records/14637314/files/reddit_technology_madoc.parquet",
-    videos = "https://zenodo.org/records/14637314/files/reddit_videos_madoc.parquet"
+    CringeAnarchy = "https://zenodo.org/records/15690964/files/reddit_CringeAnarchy_madoc.parquet",
+    fatpeoplehate = "https://zenodo.org/records/15690964/files/reddit_fatpeoplehate_madoc.parquet",
+    funny = "https://zenodo.org/records/15690964/files/reddit_funny_madoc.parquet",
+    gaming = "https://zenodo.org/records/15690964/files/reddit_gaming_madoc.parquet",
+    gifs = "https://zenodo.org/records/15690964/files/reddit_gifs_madoc.parquet",
+    greatawakening = "https://zenodo.org/records/15690964/files/reddit_greatawakening_madoc.parquet",
+    KotakuInAction = "https://zenodo.org/records/15690964/files/reddit_KotakuInAction_madoc.parquet",
+    MensRights = "https://zenodo.org/records/15690964/files/reddit_MensRights_madoc.parquet",
+    milliondollarextreme = "https://zenodo.org/records/15690964/files/reddit_milliondollarextreme_madoc.parquet",
+    pics = "https://zenodo.org/records/15690964/files/reddit_pics_madoc.parquet",
+    technology = "https://zenodo.org/records/15690964/files/reddit_technology_madoc.parquet",
+    videos = "https://zenodo.org/records/15690964/files/reddit_videos_madoc.parquet"
   ),
   voat = list(
-    CringeAnarchy = "https://zenodo.org/records/14637314/files/voat_CringeAnarchy_madoc.parquet",
-    fatpeoplehate = "https://zenodo.org/records/14637314/files/voat_fatpeoplehate_madoc.parquet",
-    funny = "https://zenodo.org/records/14637314/files/voat_funny_madoc.parquet",
-    gaming = "https://zenodo.org/records/14637314/files/voat_gaming_madoc.parquet",
-    gifs = "https://zenodo.org/records/14637314/files/voat_gifs_madoc.parquet",
-    greatawakening = "https://zenodo.org/records/14637314/files/voat_greatawakening_madoc.parquet",
-    KotakuInAction = "https://zenodo.org/records/14637314/files/voat_KotakuInAction_madoc.parquet",
-    MensRights = "https://zenodo.org/records/14637314/files/voat_MensRights_madoc.parquet",
-    milliondollarextreme = "https://zenodo.org/records/14637314/files/voat_milliondollarextreme_madoc.parquet",
-    pics = "https://zenodo.org/records/14637314/files/voat_pics_madoc.parquet",
-    technology = "https://zenodo.org/records/14637314/files/voat_technology_madoc.parquet",
-    videos = "https://zenodo.org/records/14637314/files/voat_videos_madoc.parquet"
+    CringeAnarchy = "https://zenodo.org/records/15690964/files/voat_CringeAnarchy_madoc.parquet",
+    fatpeoplehate = "https://zenodo.org/records/15690964/files/voat_fatpeoplehate_madoc.parquet",
+    funny = "https://zenodo.org/records/15690964/files/voat_funny_madoc.parquet",
+    gaming = "https://zenodo.org/records/15690964/files/voat_gaming_madoc.parquet",
+    gifs = "https://zenodo.org/records/15690964/files/voat_gifs_madoc.parquet",
+    greatawakening = "https://zenodo.org/records/15690964/files/voat_greatawakening_madoc.parquet",
+    KotakuInAction = "https://zenodo.org/records/15690964/files/voat_KotakuInAction_madoc.parquet",
+    MensRights = "https://zenodo.org/records/15690964/files/voat_MensRights_madoc.parquet",
+    milliondollarextreme = "https://zenodo.org/records/15690964/files/voat_milliondollarextreme_madoc.parquet",
+    pics = "https://zenodo.org/records/15690964/files/voat_pics_madoc.parquet",
+    technology = "https://zenodo.org/records/15690964/files/voat_technology_madoc.parquet",
+    videos = "https://zenodo.org/records/15690964/files/voat_videos_madoc.parquet"
   )
 )
 
